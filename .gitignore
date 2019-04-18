@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vscode/
+*.log
+www/
+platforms/
+plugins/
+dist/
+.vscode/
+build/
+.idea/
